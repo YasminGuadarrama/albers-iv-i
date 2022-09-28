@@ -1,10 +1,10 @@
 
 let clrs = [
 'red', //top 0
-'#orange', //middle top 1
-'#green', //middle strip 2
+'orange', //middle top 1
+'green', //middle strip 2
 'blue', //middle bottom 3
-'#purple' //bottom 4
+'purple' //bottom 4
 //Rainbow effect	
 ]
 
