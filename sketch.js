@@ -5,6 +5,7 @@ let clrs = [
 '#0e81d2', //middle strip 2
 '#042060', //middle bottom 3
 '#f61126' //bottom 4
+// Purple-Blue-Red Ombre
 	
 ]
 
