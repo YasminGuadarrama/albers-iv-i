@@ -1,11 +1,11 @@
 
 let clrs = [
-'red', //top 0
-'#orange', //middle top 1
-'#green', //middle strip 2
-'blue', //middle bottom 3
-'#purple' //bottom 4
-//Rainbow effect	
+'#ffffff', //top 0
+'#c8c8c8', //middle top 1
+'#969696', //middle strip 2
+'#646464', //middle bottom 3
+'#141414' //bottom 4
+//White-Grey-Black effect	
 ]
 
 
